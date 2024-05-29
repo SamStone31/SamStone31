@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SamStone31
+- 🌱 I’m currently learning and exploring the functionalities and possible features of the CI/CD along with the Repository to plan and develop a software one day with the Agile Model
+- 😄 Pronouns: He/Him
